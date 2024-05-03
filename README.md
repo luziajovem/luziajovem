@@ -1,5 +1,15 @@
-### Hi there 👋
+###  Hi guys
+   My name is Alice Bocardi
+   
+   -Estou estudando na Alura
+   -Estou me desenvolvendo na linguagem JavaScript
+   -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos  
 
+        Você pode entrar em contato comigo 📫
+
+    @alicebocardi@gmail.com
+
+    @luziajovem
 <!--
 **luziajovem/luziajovem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
